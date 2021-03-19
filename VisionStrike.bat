@@ -1,5 +1,5 @@
 # Copyright MRC STUDIOS
-# VISIONSTRIKE ALPHA v0.1
+# CYBERSTRIKE ALPHA v0.1
 # If your seeing this, you did something wrong. 
 @echo off
 color 03
@@ -215,7 +215,7 @@ ECHO.
 ECHO.
 ECHO.
 echo.
-echo.                                            VISIONSTRIKE
+echo.                                            CYBERSTRIKE
 echo.                                  
 echo.                                       Developed by MRC STUDIOS
 echo.                                  
