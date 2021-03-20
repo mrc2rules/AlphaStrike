@@ -1,0 +1,1 @@
+X=Msgbox("Make sure you wrote the command correctly. The command has to be all caps like this ---- ABOUT",0+16,"ERROR")
