@@ -1,0 +1,16 @@
+cls
+color FC
+echo. LimitLess v0.1-alpha
+echo.
+echo. The program has detected that you don't have Windows Media Player installed.
+ECHO.
+echo. Try to install it.
+echo. The program will open a browser link to install it. 
+echo. Please report this to me.
+echo. 
+TIMEOUT 20
+cls
+echo. Directing you to the website....
+timeout 5
+start https://support.microsoft.com/en-us/windows/get-windows-media-player-81718e0d-cfce-25b1-aee3-94596b658287
+exit

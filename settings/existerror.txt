@@ -1,0 +1,13 @@
+cls
+color FC
+echo. LimitLess v0.1-alpha
+echo.
+echo.
+echo. The program could'nt start because some files were missing.
+ECHO.
+echo. Make sure you have extracted the * COMPLETE * folder and 3 .mp3 files should be present in it.
+echo. If it's there and it still doesn't work, contact me for further support
+echo.
+echo. The program will now close in 30 seconds.
+TIMEOUT 30
+exit

@@ -1,0 +1,216 @@
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       10% Loading.
+echo.                                  [##                  ] 
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       10% Loading..
+echo.                                  [##                  ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       10% Loading...
+echo.                                  [##                  ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       10% Loading.
+echo.                                  [##                  ]                              
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       20% Loading..
+echo.                                  [###                 ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       20% Loading...
+echo.                                  [####                ]   
+ping localhost -n 1>nul
+cls
+echo.
+echo.                                       20% Loading.
+echo.                                  [####                ]    
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       20% Loading..
+echo.                                  [####                ]                                 
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       30% Loading...
+echo.                                  [#####               ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       30% Loading.
+echo.                                  [######              ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       30% Loading..
+echo.                                  [######              ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       30% Loading...
+echo.                                  [######              ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       40% Loading.
+echo.                                  [#######             ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       40% Loading..
+echo.                                  [########            ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       40% Loading...
+echo.                                  [########            ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       40% Loading.
+echo.                                  [########            ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       50% Loading..
+echo.                                  [##########          ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                        60% Loading...
+echo.                                  [###########         ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       60% Loading.
+echo.                                  [############        ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       70% Loading..
+echo.                                  [#############       ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       70% Loading...
+echo.                                  [#############       ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       70% Loading.
+echo.                                  [##############      ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       70% Loading..
+echo.                                  [##############      ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       80% Loading...
+echo.                                  [###############     ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       80% Loading.
+echo.                                  [###############     ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading..
+echo.                                  [################    ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading...
+echo.                                  [################    ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading.
+echo.                                  [################    ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading..
+echo.                                  [#################   ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading...
+echo.                                  [#################   ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading.
+echo.                                  [#################   ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading..
+echo.                                  [##################  ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       90% Loading...
+echo.                                  [##################  ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       95% Loading.
+echo.                                  [################### ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                       95% Loading..
+echo.                                  [################### ]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading...
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading.
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading..
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading...
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading.
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading..
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading...
+echo.                                  [####################]
+ping localhost -n 1 >nul
+cls
+echo.
+echo.                                      100% Loading.
+echo.                                  [####################]
+
